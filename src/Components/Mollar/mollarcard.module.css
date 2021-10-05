@@ -1,0 +1,9 @@
+.cardheader {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 10px;
+}
+.cardheader button {
+  width: 10%;
+}

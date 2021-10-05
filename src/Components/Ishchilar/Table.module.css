@@ -1,0 +1,9 @@
+.tableheader {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 10px;
+}
+.tableheader button {
+  width: 10%;
+}

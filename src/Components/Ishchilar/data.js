@@ -1,0 +1,296 @@
+export const rows = [
+  {
+    id: 1,
+    image:
+      "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_960_720.png",
+    person: {
+      familya: "Solijonov",
+      name: "Muhammad Ali",
+      pasportserya: "AB1234567",
+      yashash: {
+        viloyat: "Toshkent",
+        tuman: "Yunusobos",
+        mahalla: "Tiklanish",
+        uy: "12",
+      },
+      tel: "99 972 17 28",
+      brath: "28.07.2001",
+    },
+    oyligi: 15000,
+    kasbi: "shafyor",
+    ishga_kelgan_vaqti: "13.12.2020",
+  },
+  {
+    id: 2,
+    image:
+      "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_960_720.png",
+    person: {
+      familya: "Alimov",
+      name: "Shoxruh",
+      pasportserya: "AB7845123",
+      yashash: {
+        viloyat: "Toshkent",
+        tuman: "Ohangaron",
+        mahalla: "Yuksalish",
+        uy: "32",
+      },
+      tel: "99 972 17 28",
+      brath: "26.08.1995",
+    },
+    oyligi: 15000,
+    kasbi: "o'tchi",
+    ishga_kelgan_vaqti: "13.12.2020",
+  },
+  {
+    id: 3,
+    image:
+      "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_960_720.png",
+    person: {
+      familya: "Xonto'rayev",
+      name: "Murod",
+      pasportserya: "AB1234567",
+      yashash: {
+        viloyat: "Toshkent",
+        tuman: "Yunusobos",
+        mahalla: "Tiklanish",
+        uy: "12",
+      },
+      tel: "99 972 17 28",
+      brath: "28.07.2001",
+    },
+    oyligi: 15000,
+    kasbi: "shafyor",
+    ishga_kelgan_vaqti: "13.12.2020",
+  },
+  {
+    id: 4,
+    image:
+      "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_960_720.png",
+    person: {
+      familya: "Mansurov",
+      name: "Baxtiyor",
+      pasportserya: "AB1234567",
+      yashash: {
+        viloyat: "Toshkent",
+        tuman: "Yunusobos",
+        mahalla: "Tiklanish",
+        uy: "12",
+      },
+      tel: "99 972 17 28",
+      brath: "28.07.2001",
+    },
+    oyligi: 15000,
+    kasbi: "shafyor",
+    ishga_kelgan_vaqti: "13.12.2020",
+  },
+  {
+    id: 5,
+    image:
+      "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_960_720.png",
+    person: {
+      familya: "Exsonov",
+      name: "Insobboy",
+      pasportserya: "AB1234567",
+      yashash: {
+        viloyat: "Toshkent",
+        tuman: "Yunusobos",
+        mahalla: "Tiklanish",
+        uy: "12",
+      },
+      tel: "99 972 17 28",
+      brath: "28.07.2001",
+    },
+    oyligi: 15000,
+    kasbi: "doktor",
+    ishga_kelgan_vaqti: "13.12.2020",
+  },
+  {
+    id: 6,
+    image:
+      "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_960_720.png",
+    person: {
+      familya: "Alisherov",
+      name: "Muhsinali",
+      pasportserya: "AB1234567",
+      yashash: {
+        viloyat: "Toshkent",
+        tuman: "Yunusobos",
+        mahalla: "Tiklanish",
+        uy: "12",
+      },
+      tel: "99 972 17 28",
+      brath: "28.07.2001",
+    },
+    oyligi: 15000,
+    kasbi: "shafyor",
+    ishga_kelgan_vaqti: "13.12.2020",
+  },
+  {
+    id: 7,
+    image:
+      "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_960_720.png",
+    person: {
+      familya: "Sotvoldiyev",
+      name: "Akbar",
+      pasportserya: "AB1234567",
+      yashash: {
+        viloyat: "Toshkent",
+        tuman: "Yunusobos",
+        mahalla: "Tiklanish",
+        uy: "12",
+      },
+      tel: "99 972 17 28",
+      brath: "28.07.2001",
+    },
+    oyligi: 15000,
+    kasbi: "shafyor",
+    ishga_kelgan_vaqti: "13.12.2020",
+  },
+  {
+    id: 8,
+    image:
+      "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_960_720.png",
+    person: {
+      familya: "Solijonov",
+      name: "Muhammad Ali",
+      pasportserya: "AB1234567",
+      yashash: {
+        viloyat: "Toshkent",
+        tuman: "Yunusobos",
+        mahalla: "Tiklanish",
+        uy: "12",
+      },
+      tel: "99 972 17 28",
+      brath: "28.07.2001",
+    },
+    oyligi: 15000,
+    kasbi: "shafyor",
+    ishga_kelgan_vaqti: "13.12.2020",
+  },
+  {
+    id: 9,
+    image:
+      "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_960_720.png",
+    person: {
+      familya: "Alimov",
+      name: "Shoxruh",
+      pasportserya: "AB7845123",
+      yashash: {
+        viloyat: "Toshkent",
+        tuman: "Ohangaron",
+        mahalla: "Yuksalish",
+        uy: "32",
+      },
+      tel: "99 972 17 28",
+      brath: "26.08.1995",
+    },
+    oyligi: 15000,
+    kasbi: "o'tchi",
+    ishga_kelgan_vaqti: "13.12.2020",
+  },
+  {
+    id: 10,
+    image:
+      "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_960_720.png",
+    person: {
+      familya: "Xonto'rayev",
+      name: "Murod",
+      pasportserya: "AB1234567",
+      yashash: {
+        viloyat: "Toshkent",
+        tuman: "Yunusobos",
+        mahalla: "Tiklanish",
+        uy: "12",
+      },
+      tel: "99 972 17 28",
+      brath: "28.07.2001",
+    },
+    oyligi: 15000,
+    kasbi: "shafyor",
+    ishga_kelgan_vaqti: "13.12.2020",
+  },
+  {
+    id: 11,
+    image:
+      "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_960_720.png",
+    person: {
+      familya: "Mansurov",
+      name: "Baxtiyor",
+      pasportserya: "AB1234567",
+      yashash: {
+        viloyat: "Toshkent",
+        tuman: "Yunusobos",
+        mahalla: "Tiklanish",
+        uy: "12",
+      },
+      tel: "99 972 17 28",
+      brath: "28.07.2001",
+    },
+    oyligi: 15000,
+    kasbi: "shafyor",
+    ishga_kelgan_vaqti: "13.12.2020",
+  },
+  {
+    id: 12,
+    image:
+      "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_960_720.png",
+    person: {
+      familya: "Exsonov",
+      name: "Insobboy",
+      pasportserya: "AB1234567",
+      yashash: {
+        viloyat: "Toshkent",
+        tuman: "Yunusobos",
+        mahalla: "Tiklanish",
+        uy: "12",
+      },
+      tel: "99 972 17 28",
+      brath: "28.07.2001",
+    },
+    oyligi: 15000,
+    kasbi: "doktor",
+    ishga_kelgan_vaqti: "13.12.2020",
+  },
+  {
+    id: 13,
+    image:
+      "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_960_720.png",
+    person: {
+      familya: "Alisherov",
+      name: "Muhsinali",
+      pasportserya: "AB1234567",
+      yashash: {
+        viloyat: "Toshkent",
+        tuman: "Yunusobos",
+        mahalla: "Tiklanish",
+        uy: "12",
+      },
+      tel: "99 972 17 28",
+      brath: "28.07.2001",
+    },
+    oyligi: 15000,
+    kasbi: "shafyor",
+    ishga_kelgan_vaqti: "13.12.2020",
+  },
+  {
+    id: 14,
+    image:
+      "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_960_720.png",
+    person: {
+      familya: "Sotvoldiyev",
+      name: "Akbar",
+      pasportserya: "AB1234567",
+      yashash: {
+        viloyat: "Toshkent",
+        tuman: "Yunusobos",
+        mahalla: "Tiklanish",
+        uy: "12",
+      },
+      tel: "99 972 17 28",
+      brath: "28.07.2001",
+    },
+    oyligi: 15000,
+    kasbi: "shafyor",
+    ishga_kelgan_vaqti: "13.12.2020",
+  },
+];

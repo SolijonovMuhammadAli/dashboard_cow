@@ -1,0 +1,11 @@
+.navbar_header h4 {
+  padding: 10px 0;
+  font-weight: bold;
+  color: #fff;
+  text-align: center;
+}
+.header_badge {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

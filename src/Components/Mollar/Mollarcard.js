@@ -60,13 +60,16 @@ function Mollarcard({ data, imageHeight }) {
                   Vazni: {item.kilosi}kg
                 </Typography>
                 <Typography variant="body3" color="text.secondary">
-                  Jins: {item.jinsi ? "buqa" : "sigir"}
+                  Jins: {item.jins}
                 </Typography>
                 <Typography variant="body1" color="text.secondary">
                   Tug'ilgan sanasi {item.brath}
                 </Typography>
                 <Typography variant="body2" color="text.secondary">
                   Zori: {item.zoti}
+                </Typography>
+                <Typography variant="body2" color="text.secondary">
+                  <mark>{item.sotiladi ? "Sotiladi" : "Sotilmaydi"}</mark>
                 </Typography>
               </CardContent>
               <CardActions>

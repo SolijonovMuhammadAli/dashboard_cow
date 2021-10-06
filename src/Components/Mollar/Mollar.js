@@ -36,7 +36,6 @@ function Mollar() {
   };
   const handleChange1 = (event) => {
     setCurrency(event.target.value);
-    console.log(event.target.value);
     if (event.target.value === "Hammasi") {
       setData(cows);
     } else {
